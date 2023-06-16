@@ -1,0 +1,19 @@
+{
+  "deskripsi": [
+    {
+      "id": 1,
+      "name": "Bubble Sort",
+      "body": "Bubble Sort adalah metode pengurutan algoritma dengan cara melakukan penukaran data secara terus menerus sampai bisa dipastikan dalam suatu iterasi tertentu tidak ada lagi perubahan/penukaran",
+    },
+    {
+      "id": 2,
+      "name": "Selection Sort",
+      "body": "Selection Sort adalah algoritme pengurutan yang memilih elemen terkecil dari daftar yang tidak disortir di setiap iterasi dan menempatkan elemen tersebut di awal daftar yang tidak disortir.",
+    },
+    {
+      "id": 3,
+      "name": "Insertion Sortt",
+      "body": "Insertion Sort merupakan sebuah teknik pengurutan dengan cara membandingkan dan mengurutkan dua data pertama pada array, kemudian membandingkan data para array berikutnya apakah sudah berada di tempat semestinya."
+    }
+  ]
+}
